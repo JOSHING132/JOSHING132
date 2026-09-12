@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170">
+<rect width="1000" height="170" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="35" y="38" fill="#ff2a2a" font-family="Arial,sans-serif" font-size="21" font-weight="700">Contribution Snake</text>
+<text x="965" y="38" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">JOSHING132</text>
+<g fill="#210d0d">
+<rect x="35" y="62" width="16" height="16" rx="3"/><rect x="57" y="62" width="16" height="16" rx="3"/><rect x="79" y="62" width="16" height="16" rx="3"/><rect x="101" y="62" width="16" height="16" rx="3"/><rect x="123" y="62" width="16" height="16" rx="3"/>
+<rect x="145" y="62" width="16" height="16" rx="3"/><rect x="167" y="62" width="16" height="16" rx="3"/><rect x="189" y="62" width="16" height="16" rx="3"/><rect x="211" y="62" width="16" height="16" rx="3"/><rect x="233" y="62" width="16" height="16" rx="3"/>
+<rect x="255" y="62" width="16" height="16" rx="3"/><rect x="277" y="62" width="16" height="16" rx="3"/><rect x="299" y="62" width="16" height="16" rx="3"/><rect x="321" y="62" width="16" height="16" rx="3"/><rect x="343" y="62" width="16" height="16" rx="3"/>
+<rect x="365" y="62" width="16" height="16" rx="3"/><rect x="387" y="62" width="16" height="16" rx="3"/><rect x="409" y="62" width="16" height="16" rx="3"/><rect x="431" y="62" width="16" height="16" rx="3"/><rect x="453" y="62" width="16" height="16" rx="3"/>
+<rect x="475" y="62" width="16" height="16" rx="3"/><rect x="497" y="62" width="16" height="16" rx="3"/><rect x="519" y="62" width="16" height="16" rx="3"/><rect x="541" y="62" width="16" height="16" rx="3"/><rect x="563" y="62" width="16" height="16" rx="3"/>
+<rect x="585" y="62" width="16" height="16" rx="3"/><rect x="607" y="62" width="16" height="16" rx="3"/><rect x="629" y="62" width="16" height="16" rx="3"/><rect x="651" y="62" width="16" height="16" rx="3"/><rect x="673" y="62" width="16" height="16" rx="3"/>
+<rect x="695" y="62" width="16" height="16" rx="3"/><rect x="717" y="62" width="16" height="16" rx="3"/><rect x="739" y="62" width="16" height="16" rx="3"/><rect x="761" y="62" width="16" height="16" rx="3"/><rect x="783" y="62" width="16" height="16" rx="3"/>
+<rect x="805" y="62" width="16" height="16" rx="3"/><rect x="827" y="62" width="16" height="16" rx="3"/><rect x="849" y="62" width="16" height="16" rx="3"/><rect x="871" y="62" width="16" height="16" rx="3"/><rect x="893" y="62" width="16" height="16" rx="3"/>
+<rect x="915" y="62" width="16" height="16" rx="3"/>
+</g>
+<path d="M43 105 H153 V127 H263 V105 H373 V127 H483 V105 H593 V127 H703 V105 H813 V127 H923" fill="none" stroke="#ff2a2a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="923" cy="127" r="10" fill="#ff2a2a"/>
+<text x="35" y="151" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">Static fallback • automatically replaced by the live contribution snake</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+<rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="38" fill="#ff2a2a" font-family="Arial,sans-serif" font-size="22" font-weight="700">GitHub Statistics</text>
+<line x1="28" y1="52" x2="467" y2="52" stroke="#30363d"/>
+<text x="28" y="88" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="16">C++ / Python / Linux</text>
+<text x="28" y="119" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Game Development • Systems • Simulation</text>
+<text x="28" y="154" fill="#ff2a2a" font-family="Arial,sans-serif" font-size="14">JOSHING132</text>
+<text x="467" y="154" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">Live card updates via GitHub Actions</text>
+</svg>
