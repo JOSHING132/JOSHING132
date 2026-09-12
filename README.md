@@ -2,7 +2,6 @@
 
 <img src="./assets/readme-banner.png" width="100%" alt="JOSHING132 banner">
 
-# JOSHING132
 
  C++ Developer • Python • Linux • Game Development
 
