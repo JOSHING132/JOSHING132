@@ -1,6 +1,5 @@
 <div align="center">
 
-# `JOSHING132`
 
 ### Student Developer · C++ & Python
 
@@ -8,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JOSHING132)
 [![VK](https://img.shields.io/badge/VK-Profile-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/id877040734)
 
-<img src="./assets/readme-banner.jpg" width="72%" alt="JOSHING132 cyberpunk README artwork" />
+<img src="./assets/readme-banner.png" width="72%" alt="JOSHING132 cyberpunk README artwork" />
 
 </div>
 
