@@ -1,169 +1,222 @@
 <div align="center">
 
+<img src="./assets/readme-banner.png" width="100%" alt="JOSHING132 banner">
 
-### Student Developer · C++ & Python
 
-[![GitHub](https://img.shields.io/badge/GitHub-JOSHING132-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JOSHING132)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JOSHING132)
-[![VK](https://img.shields.io/badge/VK-Profile-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/id877040734)
+### C++ Developer • Python • Linux • Game Development
 
-<img src="./assets/readme-banner.png" width="72%" alt="JOSHING132 cyberpunk README artwork" />
+<p>
+  <img src="https://img.shields.io/badge/C++17-000000?style=for-the-badge&logo=cplusplus&logoColor=ff1e1e" alt="C++17">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff1e1e" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff1e1e" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff1e1e" alt="Git">
+  <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=ff1e1e" alt="CMake">
+</p>
+
+<p>
+  <a href="https://github.com/JOSHING132">
+    <img src="https://img.shields.io/github/followers/JOSHING132?style=flat-square&logo=github&logoColor=white&label=Followers&color=8b0000" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/JOSHING132?tab=repositories">
+    <img src="https://img.shields.io/github/stars/JOSHING132?style=flat-square&logo=github&logoColor=white&label=Stars&color=8b0000" alt="GitHub stars">
+  </a>
+</p>
 
 </div>
 
-## 👋 About me
+---
 
-- 🎓 Student at **IT TOP Academy**.
-- 💻 Learning and building with **C++** and **Python**.
-- 🎮 Interested in game development and software development.
-- 🤖 Exploring AI APIs, Telegram bots and local automation.
-- 🛠️ Using Git, GitHub, CMake, VS Code and Visual Studio.
-- 🚀 Learning through real projects, experiments and open-source code.
-
-## 🔥 Current focus
+## 🧑‍💻 About Me
 
 ```text
-C++ · Python · Git · GitHub · CMake · Raylib
+┌──────────────────────────────────────────────┐
+│                 JOSHING132                   │
+├──────────────────────────────────────────────┤
+│  💻 C++ / Python                             │
+│  🎮 Game Development                         │
+│  🐧 Linux                                    │
+│  🛠️ CMake / Git                              │
+│  🧠 Systems & Simulation                     │
+│  🔥 Building things and learning every day   │
+└──────────────────────────────────────────────┘
 ```
 
-## 🛠️ Technologies & tools
+I'm a developer focused on **C++**, **Python**, game development and
+systems-oriented projects.
 
-<div align="center">
+I enjoy creating things from scratch, experimenting with mechanics,
+working with low-level concepts and turning ideas into playable projects.
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,git,github,cmake,visualstudio,vscode,windows&theme=dark)](https://skillicons.dev)
+---
 
-</div>
+## ⚡ Tech Stack
 
-## 🎮 Featured project
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ff1e1e" alt="C++">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff1e1e" alt="Python">
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=ff1e1e" alt="CMake">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff1e1e" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff1e1e" alt="GitHub">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff1e1e" alt="Linux">
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logoColor=ff1e1e" alt="Raylib">
+</p>
+
+---
+
+## 🚀 Featured Project
 
 ### 🏛️ [WithLand](https://github.com/JOSHING132/WithLand) — Fork of [Sharzhukov/WithLand](https://github.com/Sharzhukov/WithLand)
 
+A **C++17 turn-based colony survival simulator**.
+
 This repository is a fork of the original [WithLand](https://github.com/Sharzhukov/WithLand) project by **Sharzhukov**.
 
-A C++17 colony survival simulator and my main project for learning, experimentation and development.
+The project combines survival mechanics, resource management,
+random events and colony simulation.
 
-The project currently includes:
+### 🎮 Features
 
-- 👥 Colony and settler management
-- ❤️ Health, hunger and mood systems
-- 🧑‍🌾 Multiple professions
-- 🦠 Diseases, recovery and death conditions
-- 📅 Turn-based day-by-day simulation
-- 🎒 Inventory with stackable items and food
-- 🍎 Food consumption and health restoration
-- 🛡️ Initial armor foundation
-- 🌲 Tree interaction and wood gathering
-- 📜 Events, reports and game logs
-- 🖥️ TUI and Raylib-based GUI
+- 👨‍🌾 Multiple professions
+- ❤️ Health system
+- 🍖 Hunger system
+- 😊 Mood system
+- 🦠 Diseases and recovery
+- 💀 Damage and death mechanics
+- 📅 Daily simulation
+- 🌲 Wood harvesting
+- 🎒 Inventory system
+- 🍎 Stackable food
+- 🪵 Stackable resources
+- 🛡️ Armor system
+- ⚔️ Events and random situations
+- 📜 Game logs
+- 🖥️ TUI interface
+- 🎨 Raylib GUI
+- 💻 macOS / Linux / Windows
 
-The project is actively developed, so some systems are still being expanded.
+### 👥 Professions
 
-## 🤖 Python & AI experiments
+```text
+Farmer    🌾
+Builder   🔨
+Medic     🩺
+Scout     🔭
+Guard     🛡️
+Mage      🔮
+```
 
-I also build small Python projects around **Telegram bots, AI APIs, automation and experiments**.
+### 🛠️ Built With
 
-These projects are primarily for learning and exploring practical ways to use Python and AI tools.
+```text
+C++17
+CMake
+Raylib
+Git
+```
 
-## 📊 GitHub statistics
+👉 **Check out the project:**
 
-<div align="center">
+**[github.com/JOSHING132/WithLand](https://github.com/JOSHING132/WithLand)**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JOSHING132&show_icons=true&hide_border=true&bg_color=0b0b0f&title_color=ff1e1e&icon_color=ff1e1e&text_color=ffffff&ring_color=ff1e1e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOSHING132&layout=compact&hide_border=true&bg_color=0b0b0f&title_color=ff1e1e&text_color=ffffff" />
+---
 
-</div>
+## 📊 GitHub Statistics
 
-## 🔥 Contribution streak
+<p align="center">
+  <img src="./profile/stats.svg" width="49%" alt="GitHub statistics">
+  <img src="./profile/languages.svg" width="49%" alt="Top languages">
+</p>
 
-<div align="center">
+---
 
-<img src="https://streak-stats.demolab.com?user=JOSHING132&hide_border=true&background=0b0b0f&ring=ff1e1e&fire=ff1e1e&currStreakLabel=ff1e1e&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
+## 🐍 Contribution Snake
 
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution snake"
+    >
+  </picture>
+</p>
 
-## 🐍 Contribution snake
+---
 
-<div align="center">
+## 📈 Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/JOSHING132/JOSHING132/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JOSHING132&bg_color=000000&color=ff1e1e&line=ff1e1e&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub activity graph"
+  >
+</p>
 
-</div>
+---
 
-> The snake is generated automatically by GitHub Actions. It will appear after the workflow has completed at least once.
+## 🔥 Currently
+
+```text
+> Learning C++
+> Building game systems
+> Working with Linux
+> Improving architecture
+> Experimenting with simulations
+> Creating new projects
+```
+
+---
+
+## 🎯 Goals
+
+- 🚀 Improve C++ skills
+- 🎮 Build more complex games
+- 🧠 Learn advanced software architecture
+- 🐧 Become more comfortable with Linux
+- ⚙️ Build efficient systems
+- 🔥 Create interesting open-source projects
+
+---
 
 ## 📫 Contact
 
-- **Telegram:** [@JOSHING132](https://t.me/JOSHING132)
-- **VK:** [Profile](https://vk.ru/id877040734)
+<p align="center">
+
+<a href="https://github.com/JOSHING132">
+  <img src="https://img.shields.io/badge/GitHub-JOSHING132-000000?style=for-the-badge&logo=github&logoColor=ff1e1e" alt="GitHub">
+</a>
+
+</p>
 
 ---
 
 <div align="center">
-
-### `Learning. Building. Improving. 🚀`
-
-</div>
-
----
-
-# 🇷🇺 Русская версия
-
-## 👋 Обо мне
-
-- 🎓 Студент **Академии IT TOP**.
-- 💻 Изучаю и использую **C++** и **Python**.
-- 🎮 Интересуюсь разработкой игр и программного обеспечения.
-- 🤖 Изучаю AI API, Telegram-ботов и локальную автоматизацию.
-- 🛠️ Работаю с Git, GitHub, CMake, VS Code и Visual Studio.
-- 🚀 Развиваюсь через реальные проекты, эксперименты и open-source код.
-
-## 🔥 Сейчас изучаю
 
 ```text
-C++ · Python · Git · GitHub · CMake · Raylib
+╔══════════════════════════════════════════╗
+║                                          ║
+║              J O S H I N G 1 3 2       ║
+║                                          ║
+║        Code • Create • Experiment        ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 
-## 🎮 Основной проект
-
-### 🏛️ [WithLand](https://github.com/JOSHING132/WithLand)
-
-Симулятор выживания колонии на **C++17** и мой основной проект для обучения, экспериментов и разработки.
-
-Сейчас в проекте есть:
-
-- 👥 Управление колонией и поселенцами
-- ❤️ Системы здоровья, голода и настроения
-- 🧑‍🌾 Несколько профессий
-- 🦠 Болезни, восстановление и условия смерти
-- 📅 Пошаговая симуляция по дням
-- 🎒 Инвентарь со складываемыми предметами и едой
-- 🍎 Использование еды и восстановление здоровья
-- 🛡️ Начальная основа системы брони
-- 🌲 Взаимодействие с деревьями и добыча древесины
-- 📜 События, отчёты и игровые логи
-- 🖥️ TUI и GUI на базе Raylib
-
-Проект активно развивается, поэтому отдельные системы ещё находятся в процессе расширения.
-
-## 🤖 Python и AI-эксперименты
-
-Также создаю небольшие Python-проекты с **Telegram-ботами, AI API, автоматизацией и экспериментами**.
-
-В основном это проекты для обучения и практического изучения Python и AI-инструментов.
-
-## 📫 Контакты
-
-- **Telegram:** [@JOSHING132](https://t.me/JOSHING132)
-- **VK:** [Профиль](https://vk.ru/id877040734)
-
----
-
-<div align="center">
-
-### `Учусь. Создаю. Развиваюсь. 🚀`
+**Thanks for visiting my profile! 🔥**
 
 </div>
